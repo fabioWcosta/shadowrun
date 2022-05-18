@@ -3,7 +3,8 @@ public class Dados{
         int dado;
 
         public rolar(){
-            
+            double random = Math.random();
+            int rolagem = (int)(1 + random *(6-1));
         }
     }
 
