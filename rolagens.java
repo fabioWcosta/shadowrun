@@ -1,6 +1,6 @@
 public class rolagens{
     int dado;
-        int resultado;
+    int resultado;
 
         public int getRolar(int rolar){
             double random = Math.random();
