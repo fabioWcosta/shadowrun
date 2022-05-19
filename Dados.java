@@ -1,6 +1,7 @@
 public class Dados{
     public static void main(String[] args) {
         int dado;
+        int 
 
         public int getRolar(int rolar){
             double random = Math.random();
