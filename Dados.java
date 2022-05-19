@@ -6,7 +6,7 @@ public class Dados{
         public int getRolar(int rolar){
             double random = Math.random();
             int rolagem = (int)(1 + random *(6-1));
-            return rolagem;
+            //return rolagem;
         }
         public void setRolar() {
             this.resultado = resultado;
