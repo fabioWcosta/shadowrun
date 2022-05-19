@@ -7,7 +7,7 @@ public class rolagens{
             int rolagem = (int)(1 + random *(6-1));
             return rolagem;
         }
-        public void setRolar() {
+        public void setRolar(int resultado) {
             this.resultado = resultado;
         }
 
