@@ -1,5 +1,5 @@
 public class rolagens{
-    int dados = 3;
+    int dados;
     int resultado;
     
     //métodos públicos
