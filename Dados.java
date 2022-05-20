@@ -1,7 +1,7 @@
 public class Dados{
     public static void main(String[] args) {
 
-        do rolar(){
+        public void rolar(){
         double random = Math.random();
             int rolagem = (int)(1 + random *(6-1));
             if (rolagem > 3){
