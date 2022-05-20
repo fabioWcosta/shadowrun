@@ -4,11 +4,14 @@ public class rolagens{
     
     //métodos públicos
     public void rolar(){
-        while (dados < dados ) do
+        do {
+            
+
+        }while (dados < dados )
 
 
 
-        double random = Math.random();
+            random = Math.random();
             int rolagem = (int)(1 + random *(6-1));
             if (rolagem > 3){
                 System.out.println("Sucesso!");
