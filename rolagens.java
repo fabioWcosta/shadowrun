@@ -1,5 +1,6 @@
 public class rolagens{
     int dados = 3;
+    double random;
     
     //métodos públicos
     public void rolar(){
