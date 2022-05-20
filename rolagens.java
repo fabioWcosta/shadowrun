@@ -1,5 +1,5 @@
 public class rolagens{
-    int dado;
+    int dados = 3;
     int resultado;
 
         public int getRolar(int rolar){
