@@ -7,9 +7,7 @@ public class rolagens{
         do {
             System.out.println("Rolando dados!");
 
-        }while (dados < dados );
-
-
+        }while (dados <= dados );
 
             random = Math.random();
             int rolagem = (int)(1 + random *(6-1));
