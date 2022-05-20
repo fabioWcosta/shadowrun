@@ -2,6 +2,7 @@ public class rolagens{
     int dados = 3;
     int resultado;
     
+    //métodos públicos
     public void rolar(){
         double random = Math.random();
             int rolagem = (int)(1 + random *(6-1));
