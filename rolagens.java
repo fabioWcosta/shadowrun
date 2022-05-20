@@ -1,13 +1,13 @@
 public class rolagens{
-    int dados = 3;
+    int dados = 25;
     double random;
     
     //métodos públicos
     public void rolar(){
         do {
-            
+            System.out.println("Rolando dados!");
 
-        }while (dados < dados )
+        }while (dados < dados );
 
 
 
