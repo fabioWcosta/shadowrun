@@ -2,7 +2,7 @@ public class rolagens{
     int dados = 3;
     int resultado;
     
-    public void rolar(6,2){
+    public void rolar(){
         double random = Math.random();
             int rolagem = (int)(1 + random *(6-1));
             if (rolagem > 3){
