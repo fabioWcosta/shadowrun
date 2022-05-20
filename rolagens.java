@@ -1,9 +1,8 @@
 public class rolagens{
     int dados;
-    int resultado;
     
     //métodos públicos
-    public void rolar(dados){
+    public void rolar(){
         double random = Math.random();
             int rolagem = (int)(1 + random *(6-1));
             if (rolagem > 3){
