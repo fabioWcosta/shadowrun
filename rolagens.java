@@ -18,7 +18,7 @@ public class rolagens{
             }
             System.out.println(rolagem);
         }
-        //news
+        news
 
     /*
         public int getRolar(int rolar){
