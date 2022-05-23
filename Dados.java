@@ -1,7 +1,7 @@
 public class Dados{
     public static void main(String[] args) {
 
-        rolar(2,4);
+        //rolar(2,4);
             
     }
 
