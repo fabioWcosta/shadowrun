@@ -1,5 +1,5 @@
 public class rolagens{
-    int dados = 2s;
+    int dados = 2;
     double random;
     
     //métodos públicos
