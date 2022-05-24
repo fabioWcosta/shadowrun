@@ -18,7 +18,7 @@ public class rolagens{
             }
             System.out.println(rolagem);
         }
-        
+    public void habilidade()    
 
     /*
         public int getRolar(int rolar){
