@@ -19,7 +19,7 @@ public class rolagens{
             System.out.println(rolagem);
         }
     public void habilidade() {
-        System.out.println();
+        System.out.println("Os dados são rolados!");
     }   
 
     /*
