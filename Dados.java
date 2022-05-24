@@ -1,7 +1,7 @@
 public class Dados{
     public static void main(String[] args) {
 
-        void rolar();
+        public void rolar();
         void habilidade();
             
     }
