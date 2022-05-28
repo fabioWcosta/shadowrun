@@ -26,13 +26,13 @@ public class rolagens{
         System.out.println("O herói rola "+ dados +" dados!");
     }   
 
-        public int getRolar(int rolar){
-            double random = Math.random();
-            int rolagem = (int)(1 + random *(6-1));
-            return rolagem;
-        }
-        public void setRolar(int resultado) {
+    public int getRolar(int rolar){
+        double random = Math.random();
+        int rolagem = (int)(1 + random *(6-1));
+        return rolagem;
+    }
+    public void setRolar(int resultado) {
             this.resultado = resultado;
-        }
+    }
        
 }
