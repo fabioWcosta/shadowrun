@@ -2,7 +2,7 @@ public class Dados{
     public static void main(String[] args) {
 
     //atributos
-    int dados;
+    int dados = 2f;
     String resultado;
     double random;
     }
@@ -11,7 +11,7 @@ public class Dados{
         do {
             System.out.println("Rolando dados!");
 
-        }while (dados <= 4);
+        }while (dados <= 2);
 
             double random = Math.random();
             int rolagem = (int)(1 + random *(6-1));
