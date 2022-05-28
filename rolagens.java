@@ -25,6 +25,10 @@ public class rolagens{
         System.out.println("Os dados são rolados!");    
         System.out.println("O herói rola "+ dados +" dados!");
     }   
+    }
+       
+    //métodos especiais
+    
 
     public int getRolar(int rolar){
         double random = Math.random();
@@ -33,7 +37,5 @@ public class rolagens{
     }
     public void setRolar(int resultado) {
             this.resultado = resultado;
-    }
-       
-    //métodos especiais
+
 }
