@@ -1,4 +1,6 @@
 public class rolagens{
+
+    //atributos
     int dados = 2;
     double random;
     
