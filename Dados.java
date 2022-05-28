@@ -4,10 +4,9 @@ public class Dados{
     //atributos
     int dados = 2;
     String resultado;
-    double random;
-    }
+    
     //métodos públicos 
-    public void rolar(){
+    //public void rolar(){
         do {
             System.out.println("Rolando dados!");
 
@@ -21,7 +20,7 @@ public class Dados{
                 System.out.println("Falha!");
             }
             System.out.println(rolagem);
-        }
+      //  }
     public void habilidade() {
         System.out.println("Os dados são rolados!");    
         System.out.println("O herói rola "+ this.dados +" dados!");
