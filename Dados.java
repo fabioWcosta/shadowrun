@@ -10,7 +10,7 @@ public class Dados{
         do {
             System.out.println("Rolando dados!");
 
-        }while (dados <= 2);
+        }while (dados <= 1);
 
             double random = Math.random();
             int rolagem = (int)(1 + random *(6-1));
@@ -27,5 +27,4 @@ public class Dados{
         System.out.println("O herói rola "+ dados +" dados!");
     }     
     
-}
 }
