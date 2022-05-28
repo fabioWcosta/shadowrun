@@ -27,7 +27,6 @@ public class rolagens{
     }  
        
     //métodos especiais
-    
 
     public int getRolar(int rolar){
         double random = Math.random();
