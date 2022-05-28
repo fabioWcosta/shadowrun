@@ -6,7 +6,7 @@ public class Dados{
     double random;
     String resultado;
     
-    //métodos públicos
+    //métodos públicos 
     public void rolar(){
         do {
             System.out.println("Rolando dados!");
