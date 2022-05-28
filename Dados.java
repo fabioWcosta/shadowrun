@@ -3,9 +3,9 @@ public class Dados{
 
     //atributos
     int dados;
-    double random;
     String resultado;
-    
+    double random;
+    }
     //métodos públicos 
     public void rolar(){
         do {
