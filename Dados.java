@@ -1,7 +1,7 @@
 public class Dados{
     public static void main(String[] args) {
 
-        //atributos
+    //atributos
     int dados;
     double random;
     String resultado;
