@@ -35,4 +35,5 @@ public class rolagens{
             this.resultado = resultado;
     }
        
+    //métodos especiais
 }
