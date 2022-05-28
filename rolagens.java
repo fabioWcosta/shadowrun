@@ -3,6 +3,7 @@ public class rolagens{
     //atributos
     int dados = 2;
     double random;
+    String resultado;
     
     //métodos públicos
     public void rolar(){
