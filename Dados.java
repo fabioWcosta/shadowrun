@@ -2,7 +2,7 @@ public class Dados{
     public static void main(String[] args) {
 
     //atributos
-    int dados = 2f;
+    int dados = 2;
     String resultado;
     double random;
     }
