@@ -3,7 +3,7 @@ public class Dados{
 
         public void rolar();
         public void habilidade();
-        public void setRolar(int resultado);    
+        public void getRolar(int resultado);    
     }
 
 }
