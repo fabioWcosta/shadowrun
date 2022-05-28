@@ -19,11 +19,11 @@ public class Dados{
             }else{
                 System.out.println("Falha!");
             }
-            System.out.println(rolagem);
-      //  }
+            System.out.println("Resultado da rolagem: " +rolagem);
+       }
     public void habilidade() {
         System.out.println("Os dados são rolados!");    
         System.out.println("O herói rola "+ this.dados +" dados!");
     }     
-
+    
 }
