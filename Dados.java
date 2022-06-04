@@ -4,7 +4,7 @@ public class Dados{
     //atributos
     int dados = 4;
     String resultado;
-    
+    }
     //métodos públicos 
     public void rolar(){
         do {
