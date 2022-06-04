@@ -2,7 +2,7 @@ public class Dados{
     public static void main(String[] args) {
 
     //atributos
-    int dados = 2;
+    int dados = 3;
     String resultado;
     
     //métodos públicos 
