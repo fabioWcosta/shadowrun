@@ -1,7 +1,7 @@
 public class rolagens{
 
       //atributos
-      int dados = 2;
+      int dados = 5;
       String resultado;
       
       //métodos públicos 
