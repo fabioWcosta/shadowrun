@@ -1,10 +1,6 @@
 public class Dados{
     public static void main(String[] args) {
 
-    //atributos
-    int dados = 4;
-    String resultado;
-    }
     //métodos públicos 
     public void rolar(){
         do {
