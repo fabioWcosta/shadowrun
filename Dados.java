@@ -6,7 +6,7 @@ public class Dados{
     String resultado;
     
     //métodos públicos 
-    //public void rolar(){
+    public void rolar(){
         do {
             System.out.println("Rolando dados!");
 
