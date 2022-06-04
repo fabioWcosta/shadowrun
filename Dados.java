@@ -4,7 +4,6 @@ public class Dados{
     //atributos
     int dados = 4;
     String resultado;
-    //https://web.whatsapp.com/
     
     //métodos públicos 
     //public void rolar(){
