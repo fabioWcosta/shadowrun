@@ -1,7 +1,7 @@
 public class Dados{
     public static void main(String[] args) {
-        int rolagem = new rolagem();
-        
+        //int rolagem = new rolagens();
+
     //métodos públicos 
     //private int dados;   
     habilidade();  
