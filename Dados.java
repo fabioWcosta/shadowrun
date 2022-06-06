@@ -2,7 +2,7 @@ public class Dados{
     public static void main(String[] args) {
 
     //métodos públicos 
-    public rolar();
+    rolar();
     private int dados;
     public void habilidade() {
         System.out.println("Os dados são rolados!");    
@@ -10,4 +10,7 @@ public class Dados{
     }     
     
 }
+
+    private static void rolar() {
+    }
 }
